@@ -1,6 +1,6 @@
-dict2 = {
+dict1 = {
     "product": "Laptop",
     "price": 55000,
     "brand": "HP"
 }
-print("Dictionary 2:", dict2)
+print("Dictionary 2:", dict1)
